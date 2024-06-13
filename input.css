@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ficon:hover {
+  filter: invert(80%) sepia(37%) saturayte
+}
